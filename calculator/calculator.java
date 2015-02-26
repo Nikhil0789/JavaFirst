@@ -34,9 +34,9 @@ double operation1 =  0;
 int operation;
 math math = new math();
 Scanner in = new Scanner(System.in);
-System.out.println("Please Enter first number");
+System.out.println("Enter first number");
 number1 = in.nextDouble();
-System.out.println("Please Enter Second number");
+System.out.println("Enter Second number");
 number2 = in.nextDouble();
 
 System.out.println("1:Addition");
